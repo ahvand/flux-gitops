@@ -5,7 +5,7 @@
 replicaCount: 4
 
 image:
-  repository: ec2-3-66-192-196.eu-central-1.compute.amazonaws.com:4443/admin/cats
+  repository: ec2-18-156-134-225.eu-central-1.compute.amazonaws.com:4443/admin/cats
   tag: v0.0.4
   pullPolicy: IfNotPresent
 
